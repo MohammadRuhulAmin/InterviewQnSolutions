@@ -1,0 +1,15 @@
+E:\enosis_solutions\bin\Debug\net6.0\enosis_solutions.exe
+E:\enosis_solutions\bin\Debug\net6.0\enosis_solutions.deps.json
+E:\enosis_solutions\bin\Debug\net6.0\enosis_solutions.runtimeconfig.json
+E:\enosis_solutions\bin\Debug\net6.0\enosis_solutions.dll
+E:\enosis_solutions\bin\Debug\net6.0\ref\enosis_solutions.dll
+E:\enosis_solutions\bin\Debug\net6.0\enosis_solutions.pdb
+E:\enosis_solutions\obj\Debug\net6.0\enosis_solutions.csproj.AssemblyReference.cache
+E:\enosis_solutions\obj\Debug\net6.0\enosis_solutions.GeneratedMSBuildEditorConfig.editorconfig
+E:\enosis_solutions\obj\Debug\net6.0\enosis_solutions.AssemblyInfoInputs.cache
+E:\enosis_solutions\obj\Debug\net6.0\enosis_solutions.AssemblyInfo.cs
+E:\enosis_solutions\obj\Debug\net6.0\enosis_solutions.csproj.CoreCompileInputs.cache
+E:\enosis_solutions\obj\Debug\net6.0\enosis_solutions.dll
+E:\enosis_solutions\obj\Debug\net6.0\ref\enosis_solutions.dll
+E:\enosis_solutions\obj\Debug\net6.0\enosis_solutions.pdb
+E:\enosis_solutions\obj\Debug\net6.0\enosis_solutions.genruntimeconfig.cache
