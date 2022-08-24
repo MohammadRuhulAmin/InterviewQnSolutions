@@ -1,7 +1,7 @@
 ﻿using System;
  using enosis_solutions.ReverseString;
  using enosis_solutions.PalindromNumber;
-
+using enosis_solutions.LoopPattern_1;
 namespace MyApp // Note: actual namespace depends on the project name.
 {
     internal class Program
@@ -29,6 +29,19 @@ namespace MyApp // Note: actual namespace depends on the project name.
             PalindromNumber pnum = new PalindromNumber();
             int number_1 = 12321;
             pnum.checkPalindromOrNot(number_1);
+
+
+            /*
+                Given a Range Print a Pattern using one loop 
+                Input : 10 
+                Output : 1 2 3 4 5 6 7 8 9 10 9 8 7 6 5 4 3 2 1
+            */
+
+            LoopPattern_1 lp1 = new LoopPattern_1();
+            int range = 10;
+            lp1.PrintPattern(range);
+
+            
 
         }
     }
