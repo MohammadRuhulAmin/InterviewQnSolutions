@@ -14,6 +14,7 @@ namespace enosis_solutions.PalindromNumber
             Console.WriteLine("The new numb is :"+newNumb);
             if(newNumb == storeNumb)Console.WriteLine("Palindrom Number");
             else Console.WriteLine("Not A Palindrom Number");
+             Console.WriteLine();
 
         }
     }

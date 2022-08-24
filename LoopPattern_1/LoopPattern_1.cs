@@ -11,6 +11,7 @@ namespace enosis_solutions.LoopPattern_1
                     Console.Write(totalLength-i+ " ");
                 }
             }
+             Console.WriteLine();
 
         }
     }
