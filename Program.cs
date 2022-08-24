@@ -4,6 +4,7 @@
 using enosis_solutions.LoopPattern_1;
 using enosis_solutions.LoopPattern_2;
 using enosis_solutions.Fibonnachi;
+using enosis_solutions.FirstNonRepeatChar;
 namespace MyApp // Note: actual namespace depends on the project name.
 {
     internal class Program
@@ -59,6 +60,15 @@ namespace MyApp // Note: actual namespace depends on the project name.
              */
             Fibonacchi fib = new Fibonacchi();
             fib.FibonacchiPattern(range);
+
+            /*
+                Print the non repeated First Charecter of a String :
+                Input : BBCADAXXX
+                Output : A
+            */
+            FirstNonRepeatChar Frc = new FirstNonRepeatChar();
+            string text_2 = "ABCDABCDX";
+            Frc.NonRepeatChar(text_2);
 
         }
     }
