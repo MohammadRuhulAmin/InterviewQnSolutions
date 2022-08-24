@@ -5,6 +5,7 @@ using enosis_solutions.LoopPattern_1;
 using enosis_solutions.LoopPattern_2;
 using enosis_solutions.Fibonnachi;
 using enosis_solutions.FirstNonRepeatChar;
+using enosis_solutions.RepeatedElement;
 namespace MyApp // Note: actual namespace depends on the project name.
 {
     internal class Program
@@ -69,6 +70,16 @@ namespace MyApp // Note: actual namespace depends on the project name.
             FirstNonRepeatChar Frc = new FirstNonRepeatChar();
             string text_2 = "ABCDABCDX";
             Frc.NonRepeatChar(text_2);
+
+            /*
+                Find Repeated Elements of the Array : 
+                Input : [1 , 2 , 3 , 2 , 1]
+                Output : [1,2]
+            */
+            RepeatedElement Re = new RepeatedElement();
+            int [] array = new int[7]{1,2,3,1,2,3,4};
+            Re.FindRepeatedElement(array);
+
 
         }
     }
