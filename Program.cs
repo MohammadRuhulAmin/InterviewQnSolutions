@@ -3,6 +3,7 @@
  using enosis_solutions.PalindromNumber;
 using enosis_solutions.LoopPattern_1;
 using enosis_solutions.LoopPattern_2;
+using enosis_solutions.Fibonnachi;
 namespace MyApp // Note: actual namespace depends on the project name.
 {
     internal class Program
@@ -51,6 +52,13 @@ namespace MyApp // Note: actual namespace depends on the project name.
             LoopPattern_2 lp2 = new LoopPattern_2();
             lp2.PrintPattern(range);
              
+             /*
+                Print a Fibonnachi number using one loop 
+                Input  : 100 
+                Output : 0 1 1 2 3 5 8 ............. 
+             */
+            Fibonacchi fib = new Fibonacchi();
+            fib.FibonacchiPattern(range);
 
         }
     }

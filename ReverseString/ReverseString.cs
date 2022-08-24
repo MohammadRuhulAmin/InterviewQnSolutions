@@ -17,7 +17,6 @@ namespace enosis_solutions.ReverseString
                     ansString += tempString;
                 }
             }
-
             return ansString;
         }
     }
